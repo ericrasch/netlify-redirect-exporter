@@ -6,6 +6,8 @@ A Python utility that exports WordPress redirect rules from LocalWP installation
 
 This tool connects to a LocalWP (Local by Flywheel) WordPress installation and extracts redirect rules managed by the WordPress Redirection plugin, converting them into Netlify's redirect format. This is particularly useful when migrating WordPress sites to static hosting on Netlify.
 
+![CleanShot 2025-06-25 at 14 49 41](https://github.com/user-attachments/assets/b6eaf4aa-a731-4e9f-969c-4bbe6439af29)
+
 ## Features
 
 - 🔍 **Auto-discovery** of LocalWP sites on your system
